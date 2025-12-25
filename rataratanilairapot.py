@@ -18,5 +18,6 @@ for s in range(jumlah_semester):
     print("Rata-rata Semester", s+1, ":", round(rata, 2))
  
 print(" ====================================")
-print("\nTERIMA KASIH TELAH MENGGUNAKAN PROGRAM INI!")
+print("TERIMA KASIH TELAH MENGGUNAKAN PROGRAM INI!")
+
 print(" ==================================== ")
