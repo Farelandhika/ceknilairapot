@@ -19,5 +19,5 @@ for s in range(jumlah_semester):
  
 print(" ====================================")
 print("TERIMA KASIH TELAH MENGGUNAKAN PROGRAM INI!")
-
 print(" ==================================== ")
+
